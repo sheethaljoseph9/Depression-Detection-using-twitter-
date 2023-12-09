@@ -1,4 +1,4 @@
-# depression-depression-using-twitter-
+# Depression Detection using twitter.
 Major depression constitutes a serious challenge in personal and public health. Tens of millions of people each year suffer from depression
 and only a fraction receives adequatetreatment. We explore the potential to use social media to detect and diagnose major depressive disorder in individuals.
 The goal of this project is to examine automatically analysing the social media textual data (Twitter) using Natural Language Processing (NLP) and Machine learning (ML) techniques to detectsigns of depression. In this project, several supervised machine learning algorithms (such as NB, SVM, RF) with feature engineering techniques are used and compare their results with those of transformer based deep learning pre-trained model (distilBERT). Feature extraction is done using term frequenverse document frequency (TF-IDF) and Bag of Words (BoW) model. Since the neural networks cannot deal with tweets directly, used a well-known word embedding technique called Word2vec by Google for the vector representation.
