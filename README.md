@@ -25,7 +25,7 @@ The CSV file contains manual labeling of sentiment words and manual analysis of 
  # Step 3: Data Visualization
   - Dataset label count
   - WordCloud on Negative Tweets
-  * WordCloud on Positive Tweets
+  - WordCloud on Positive Tweets
   
  # Step 4: Feature Engineering
  The different methods of feature extraction used in this project are as follows:
