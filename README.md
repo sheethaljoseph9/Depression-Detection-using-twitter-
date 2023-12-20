@@ -8,8 +8,8 @@ The project can be divided into 5 step process:
 
 - Step 1: Gathering Data
 * Step 2: Data Preprocessing
-+ Step 3: Data Visualization
-+ Step 4: Feature Engineering
+- Step 3: Data Visualization
+- Step 4: Feature Engineering
 - Step 5: Model Training
 * Step 6: Testing and Analysing Model
 
