@@ -7,11 +7,11 @@ The goal of this project is to examine automatically analyzing the social media 
 The project can be divided into 5 step process:
 
 - Step 1: Gathering Data
-* Step 2: Data Preprocessing
+- Step 2: Data Preprocessing
 - Step 3: Data Visualization
 - Step 4: Feature Engineering
 - Step 5: Model Training
-* Step 6: Testing and Analysing Model
+- Step 6: Testing and Analysing Model
 
 # Step 1: Gathering Data 
 The CSV file contains manual labeling of sentiment words and manual analysis of sentiment. This has been recorded along with a sentiment analyzer's output. https://www.kaggle.com/gargmanas/sentimental-analysis-for-tweets. The dataset contains 10000 tweets scrapped from Twitter and each tweet is given a label 1 or 0: 1 denotes people with symptoms of depression while 0 denotes that the user does not.
